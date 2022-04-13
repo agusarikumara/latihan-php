@@ -1,0 +1,70 @@
+body {
+    background-color: #678;
+    width: 700px;
+    margin: auto;
+}
+
+logo {
+	font-size:37px;
+	align-content: center;
+    color: #FFFFFF;
+    line-height: 1.5em;
+    padding-left: 1.7em;
+}
+/* Header dan Footer */
+header, footer {
+  background-color: #345;
+  padding: 50px;
+}
+
+footer {
+	text-align: center;
+	color: #FFFFFF;
+}
+
+/* Menu */
+*
+{
+	margin:0;
+	padding:0;
+}
+.nav{
+	background: #B9B1B1;
+	text-decoration: none;
+	font-size: 15px;
+	font-style: normal;
+	font-family: "consolas";
+	text-align: center;
+}
+.nav a {
+  color: #543;
+  text-decoration: none;
+  display: block;
+  padding: 5px;
+}
+.nav a:hover {
+  background-color: #fff;
+  color: #f30;
+}
+.konten{
+	padding-top: 5px;
+	height: 60%;
+	width: 100%;
+	text-align: center;
+	background: #FFFFFF;
+	padding-bottom: 5px;
+}
+.konten1{
+	padding-top: 5px;
+	height: 60%;
+	width: 100%;
+	text-align: center;
+	background: #FFFFFF;
+	padding-bottom: 5px;
+}
+
+	
+	
+	
+	
+	
