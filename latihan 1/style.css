@@ -1,0 +1,63 @@
+body{
+	font-family: sans-serif;
+	background: #4B6AFF;
+}
+ 
+h1{
+	text-align: center;
+	color: white;
+	font-weight: 300;
+}
+ 
+.tulisan_login{
+	text-align: center;
+	text-transform: uppercase;
+}
+ 
+.kotak_login{
+	width: 350px;
+	background: white;
+	margin: 80px auto;
+	padding: 30px 20px;
+}
+ 
+label{
+	font-size: 11pt;
+}
+ 
+.form_login{
+	box-sizing : border-box;
+	width: 100%;
+	padding: 10px;
+	font-size: 11pt;
+	margin-bottom: 20px;
+}
+ 
+.tombol_login{
+	background: #46de4b;
+	color: white;
+	font-size: 11pt;
+	width: 100%;
+	border: none;
+	border-radius: 3px;
+	padding: 10px 20px;
+}
+.tombol_login:hover{
+	color: #000000;
+	border-radius: 3px;
+	padding: 10px 20px;
+}
+.tombol_kembali{
+	background: #FFA3A4;
+	color: white;
+	font-size: 11pt;
+	width: 100%;
+	border: none;
+	border-radius: 3px;
+	padding: 10px 20px;
+}
+.tombol_kembali:hover{
+	color: #000000;
+	border-radius: 3px;
+	padding: 10px 20px;
+}
