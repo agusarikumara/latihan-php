@@ -1,0 +1,59 @@
+body {
+    background-color: #678;
+    width: 700px;
+    margin: auto;
+}
+
+logo {
+	font-size:37px;
+	align-content: center;
+    color: #FFFFFF;
+    line-height: 1.5em;
+    padding-left: 1.7em;
+}
+/* Header dan Footer */
+header, footer {
+  background-color: #345;
+  padding: 50px;
+}
+
+footer {
+	text-align: center;
+	color: #FFFFFF;
+}
+
+/* Menu */
+* {
+	margin: 0;
+	padding: 0;
+}
+.nav {
+	margin: auto;
+	text-align: center;
+	font-family: Consolas;
+	width: 100%;
+	font-size: 10px;
+}
+.nav, ul {
+	background: #B9B1B1;
+	list-style: none;
+	position: relative;
+	display: inline-table;
+	width: 98.6%;
+	padding: 0px 20px;
+}
+.nav, ul, li {
+	float: left;
+}
+.nav, ul, li:hover {
+	background: #688;
+}
+.nav, ul, li:hover a {
+	color: snow;
+}
+.nav, ul, li, a {
+	display: block;
+	padding: 5px;
+	color: #FFFFFF;
+	text-decoration: none;
+}
